@@ -1,9 +1,13 @@
 # AI-Posture-Estimation
 
 Required Libraries
+
 Mediapipe
+
 It is a cross-platform library developed by Google that provides amazing ready-to-use ML solutions for computer vision tasks.
+
 OpenCV 
+
 A library in python is a computer vision library that is widely used for image analysis, image processing, detection, recognition, etc.
 
 Installing required libraries
