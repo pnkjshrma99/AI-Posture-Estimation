@@ -10,7 +10,8 @@ Installing required libraries
 
 pip install opencv-python mediapipe msvc-runtime
 
-![image_2023-01-26_014726668](https://user-images.githubusercontent.com/114305058/214680277-eada4540-6bdb-4abb-a904-676613d2a6d5.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/114305058/214681395-0120e3ad-f3c0-42a1-9786-d6e393a21d56.png)
+
 
 
 
